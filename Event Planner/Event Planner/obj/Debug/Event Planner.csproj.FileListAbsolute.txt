@@ -1,0 +1,14 @@
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\bin\Debug\Event Planner.exe.config
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\bin\Debug\Event Planner.exe
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\bin\Debug\Event Planner.pdb
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event Planner.csproj.AssemblyReference.cache
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event Planner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event_Planner.Form1.resources
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event_Planner.Properties.Resources.resources
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event_Planner.UserControlBlank.resources
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event Planner.csproj.GenerateResource.cache
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event Planner.csproj.CoreCompileInputs.cache
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event Planner.exe
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event Planner.pdb
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event_Planner.UserControlDays.resources
+C:\Users\Lil Yellow Nigga\source\repos\Event Planner\Event Planner\obj\Debug\Event_Planner.EventForm.resources
